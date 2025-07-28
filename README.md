@@ -1,5 +1,8 @@
 # Student Performance Dashboard
 
+📊 **Live Dashboard** → [Click here to view](https://app.powerbi.com/groups/me/reports/bb64870e-792b-46d8-90f6-8708b81e95eb?ctid=10beae7a-0de7-44b4-96cf-75eb43c9f291&pbi_source=linkShare)
+
+
 This project explores patterns in student performance using an interactive Power BI dashboard. Drawing on my experience as a tutor, I’ve always been curious about why some students outperform others — beyond just ability. This dashboard aims to uncover how factors like gender, parental education, and lunch type influence academic outcomes.
 
 ##  Objective
