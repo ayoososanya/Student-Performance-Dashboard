@@ -1,2 +1,50 @@
-# Student-Performance-Dashboard
-Interactive Power BI dashboards analyzing student performance by demographic and academic factors.
+# Student Performance Dashboard
+
+This project explores patterns in student performance using an interactive Power BI dashboard. Drawing on my experience as a tutor, I’ve always been curious about why some students outperform others — beyond just ability. This dashboard aims to uncover how factors like gender, parental education, and lunch type influence academic outcomes.
+
+##  Objective
+
+To analyse student performance data and:
+- Identify key demographic or socio-economic factors that influence student achievement.
+- Create clear, interactive dashboards that allow users to filter and explore trends across different grade levels.
+
+##  Tools Used
+- **Power BI** – for data visualisation and dashboard creation
+- **Excel** – for initial data cleaning and preparation
+
+##  Project Structure
+├── Grade 1 Dashboard/ # Power BI dashboard focused on Grade 1 outcomes
+├── Grade 2 Dashboard/ # Dashboard for Grade 2 performance analysis
+├── Grade 3 Dashboard/ # Dashboard analyzing Grade 3 results
+├── data/ # Raw and cleaned student performance dataset
+└── README.md # Project documentation
+
+##  Key Insights
+
+- Students who received standard lunch generally scored higher than those on free/reduced lunch.
+- Parental education level was positively associated with student scores across all subjects.
+- Female students outperformed male students in reading and writing, but not in math.
+
+##  About the Dataset
+
+The dataset contains information on student test scores in math, reading, and writing, along with demographic variables such as:
+- Gender
+- Parental level of education
+- Type of lunch received
+- Test preparation course status
+
+##  Reflections
+
+As a tutor, I often observe performance gaps in real-time, but this project allowed me to quantify those gaps and understand deeper patterns. It reinforced the value of data in shaping education strategies and made me appreciate the importance of presenting findings in a format that's both accessible and actionable.
+
+##  Future Improvements
+
+- Add predictive models to forecast student outcomes
+- Build similar dashboards for different schools or years
+- Embed dashboard links directly into the GitHub README (if hosted)
+
+---
+
+**Created by:** [Ayo Ososanya](https://github.com/ayoososanya)  
+
+
