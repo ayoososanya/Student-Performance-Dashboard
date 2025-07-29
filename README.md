@@ -3,7 +3,7 @@
 📊 **Live Dashboard** → [Click here to view](https://app.powerbi.com/groups/me/reports/bb64870e-792b-46d8-90f6-8708b81e95eb?ctid=10beae7a-0de7-44b4-96cf-75eb43c9f291&pbi_source=linkShare)
 
 
-This project explores patterns in student performance using an interactive Power BI dashboard. Drawing on my experience as a tutor, I’ve always been curious about why some students outperform others — beyond just ability. This dashboard aims to uncover how factors like gender, parental education, and lunch type influence academic outcomes.
+This project explores patterns in student performance using an interactive Power BI dashboard. Drawing on my experience as a tutor, I’ve always been curious about why some students outperform others — beyond just ability. This dashboard aims to investigate how factors such as gender, parental education, and lunch type impact academic outcomes.
 
 ##  Objective
 
@@ -16,11 +16,14 @@ To analyse student performance data and:
 - **Excel** – for initial data cleaning and preparation
 
 ##  Project Structure
-├── Grade 1 Dashboard/ # Power BI dashboard focused on Grade 1 outcomes
-├── Grade 2 Dashboard/ # Dashboard for Grade 2 performance analysis
-├── Grade 3 Dashboard/ # Dashboard analyzing Grade 3 results
-├── data/ # Raw and cleaned student performance dataset
-└── README.md # Project documentation
+- Dashboard Screenshots: Screenshots of the Power BI dashboards (for quick reference/viewing)
+-  Student Performance report.pdf: PDF report summarising key insights and findings
+- Student Performance.pbix: Power BI file with the full interactive dashboard
+- README.md: Project documentation and overview
+
+Copy
+Edit
+
 
 ##  Key Insights
 
