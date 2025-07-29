@@ -21,9 +21,6 @@ To analyse student performance data and:
 - Student Performance.pbix: Power BI file with the full interactive dashboard
 - README.md: Project documentation and overview
 
-Copy
-Edit
-
 
 ##  Key Insights
 
